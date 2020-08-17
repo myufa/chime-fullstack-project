@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import MainScreen from "./components/MainScreen";
+import Menu from './components/Menu'
 
 function App() {
   return (
     <div className="App">
-      <MainScreen />
+      <Menu />
     </div>
   );
 }
